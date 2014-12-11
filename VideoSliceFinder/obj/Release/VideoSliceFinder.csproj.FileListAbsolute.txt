@@ -1,0 +1,15 @@
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Release\VideoSliceFinder.exe.config
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\Interop.MediaPlayer.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\Interop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\VideoSliceFinder.csproj.ResolveComReference.cache
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Release\VideoSliceFinder.exe
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Release\VideoSliceFinder.pdb
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Release\Interop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\VideoSliceFinder.FormVideo.resources
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\VideoSliceFinder.MainForm.resources
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\VideoSliceFinder.Properties.Resources.resources
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\VideoSliceFinder.csproj.GenerateResource.Cache
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\VideoSliceFinder.exe
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Release\VideoSliceFinder.pdb

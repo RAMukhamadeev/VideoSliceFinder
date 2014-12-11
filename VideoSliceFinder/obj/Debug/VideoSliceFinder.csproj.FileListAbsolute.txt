@@ -1,0 +1,16 @@
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Debug\VideoSliceFinder.exe.config
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Debug\VideoSliceFinder.exe
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Debug\VideoSliceFinder.pdb
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.csprojResolveAssemblyReference.cache
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.Properties.Resources.resources
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.csproj.GenerateResource.Cache
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.exe
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.pdb
+c:\users\руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.MainForm.resources
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Debug\Interop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\Interop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.csproj.ResolveComReference.cache
+C:\Users\Руслан\documents\visual studio 2013\Projects\VideoSliceFinder\VideoSliceFinder\obj\Debug\VideoSliceFinder.FormVideo.resources
