@@ -1,6 +1,6 @@
 ﻿namespace VideoSliceFinder
 {
-    partial class MainForm
+    partial class FormMain
     {
         /// <summary>
         /// Требуется переменная конструктора.
@@ -48,7 +48,7 @@
             this.файлToolStripMenuItem});
             this.menuStripMain.Location = new System.Drawing.Point(0, 0);
             this.menuStripMain.Name = "menuStripMain";
-            this.menuStripMain.Size = new System.Drawing.Size(2218, 43);
+            this.menuStripMain.Size = new System.Drawing.Size(1718, 40);
             this.menuStripMain.TabIndex = 0;
             this.menuStripMain.Text = "menuStrip1";
             // 
@@ -57,13 +57,13 @@
             this.файлToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.открытьToolStripMenuItem});
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
-            this.файлToolStripMenuItem.Size = new System.Drawing.Size(86, 39);
+            this.файлToolStripMenuItem.Size = new System.Drawing.Size(83, 36);
             this.файлToolStripMenuItem.Text = "Файл";
             // 
             // открытьToolStripMenuItem
             // 
             this.открытьToolStripMenuItem.Name = "открытьToolStripMenuItem";
-            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(187, 40);
+            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(244, 36);
             this.открытьToolStripMenuItem.Text = "Открыть";
             this.открытьToolStripMenuItem.Click += new System.EventHandler(this.открытьToolStripMenuItem_Click);
             // 
@@ -73,7 +73,7 @@
             this.dataGridViewResults.Location = new System.Drawing.Point(12, 247);
             this.dataGridViewResults.Name = "dataGridViewResults";
             this.dataGridViewResults.RowTemplate.Height = 33;
-            this.dataGridViewResults.Size = new System.Drawing.Size(2166, 939);
+            this.dataGridViewResults.Size = new System.Drawing.Size(1694, 623);
             this.dataGridViewResults.TabIndex = 1;
             // 
             // textBoxPhrase
@@ -130,11 +130,12 @@
             this.btnView.UseVisualStyleBackColor = true;
             this.btnView.Click += new System.EventHandler(this.btnView_Click);
             // 
-            // MainForm
+            // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(192F, 192F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
-            this.ClientSize = new System.Drawing.Size(2218, 1198);
+            this.AutoSize = true;
+            this.ClientSize = new System.Drawing.Size(1718, 882);
             this.Controls.Add(this.btnView);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.labelPath);
@@ -144,7 +145,7 @@
             this.Controls.Add(this.dataGridViewResults);
             this.Controls.Add(this.menuStripMain);
             this.MainMenuStrip = this.menuStripMain;
-            this.Name = "MainForm";
+            this.Name = "FormMain";
             this.Text = "VideoSliceFinder";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStripMain.ResumeLayout(false);

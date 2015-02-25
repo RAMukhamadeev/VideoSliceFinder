@@ -13,13 +13,13 @@ using System.Media;
 
 namespace VideoSliceFinder
 {
-    public partial class MainForm : Form
+    public partial class FormMain : Form
     {
         String[] masOfPath;
-        public static MainForm instance;
+        public static FormMain instance;
         int countOfResults = 0;
 
-        public MainForm()
+        public FormMain()
         {
             InitializeComponent();
         }

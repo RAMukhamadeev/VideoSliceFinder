@@ -36,17 +36,17 @@
             // mediaPlayer
             // 
             this.mediaPlayer.Enabled = true;
-            this.mediaPlayer.Location = new System.Drawing.Point(130, 38);
+            this.mediaPlayer.Location = new System.Drawing.Point(12, 12);
             this.mediaPlayer.Name = "mediaPlayer";
             this.mediaPlayer.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("mediaPlayer.OcxState")));
-            this.mediaPlayer.Size = new System.Drawing.Size(750, 538);
+            this.mediaPlayer.Size = new System.Drawing.Size(1096, 592);
             this.mediaPlayer.TabIndex = 0;
             // 
             // FormVideo
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1026, 743);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(192F, 192F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.ClientSize = new System.Drawing.Size(1120, 779);
             this.Controls.Add(this.mediaPlayer);
             this.Name = "FormVideo";
             this.Text = "Просмотр видео";

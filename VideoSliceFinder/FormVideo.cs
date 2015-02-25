@@ -26,8 +26,8 @@ namespace VideoSliceFinder
         {
             if (currIndex < countOfVideo)
             {
-                mediaPlayer.URL = MainForm.instance.GetPathToFilm(currIndex);
-                mediaPlayer.Ctlcontrols.currentPosition = MainForm.instance.GetTimeMoment(currIndex) - 4;
+                mediaPlayer.URL = FormMain.instance.GetPathToFilm(currIndex);
+                mediaPlayer.Ctlcontrols.currentPosition = FormMain.instance.GetTimeMoment(currIndex) - 4;
                 mediaPlayer.Ctlcontrols.play();
 
                 if (tmr != null)
@@ -50,7 +50,7 @@ namespace VideoSliceFinder
 
         private void FormVideo_Load(object sender, EventArgs e)
         {
-            countOfVideo = MainForm.instance.GetCountOfResults();
+            countOfVideo = FormMain.instance.GetCountOfResults();
 
             mediaPlayer.uiMode = "mini";
             PlayNextVideo();
